@@ -12943,11 +12943,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\krisd\\GitHub\\CoreStarWarsApp\\StarWars\\StarWars\\StarWars.csproj",
+      "projectUniqueName": "C:\\Users\\krisd\\GitHub\\StarWars.Core\\StarWars\\StarWars\\StarWars.csproj",
       "projectName": "StarWars",
-      "projectPath": "C:\\Users\\krisd\\GitHub\\CoreStarWarsApp\\StarWars\\StarWars\\StarWars.csproj",
+      "projectPath": "C:\\Users\\krisd\\GitHub\\StarWars.Core\\StarWars\\StarWars\\StarWars.csproj",
       "packagesPath": "C:\\Users\\krisd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\krisd\\GitHub\\CoreStarWarsApp\\StarWars\\StarWars\\obj\\",
+      "outputPath": "C:\\Users\\krisd\\GitHub\\StarWars.Core\\StarWars\\StarWars\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
